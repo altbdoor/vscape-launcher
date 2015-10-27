@@ -1,0 +1,3 @@
+[submodule "libcrypt"]
+	path = libcrypt
+	url = https://github.com/ahkscript/libcrypt.ahk.git
